@@ -1,0 +1,3 @@
+- Bitwise Operations in Python
+- UTF-8 Encoding Scheme
+- Data Representation
